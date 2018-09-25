@@ -1,3 +1,3 @@
 " ftdetect/ipynb.vim
 
-autocmd BufRead,BufNewFile *.ipynb set filetype=ipynb
+autocmd BufRead,BufNewFile *.ipynb setlocal filetype=ipynb
